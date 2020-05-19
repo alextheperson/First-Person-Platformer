@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{7C523ED3-8BBD-70D6-FC87-8AC007A383CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FloorIsLava.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FloorIsLava.cs" Line="24" Column="70" />
+      <File FileName="Assets/Scripts/CoinScript.cs" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1st Person Patformer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9051012-8c87-47eb-8d08-3989038961c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
